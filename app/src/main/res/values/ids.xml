@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="titre" type="id"/>
+    <item name="description" type="id"/>
+    <item name="api" type="id"/>
+    <item name="desuet" type="id"/>
+</resources>

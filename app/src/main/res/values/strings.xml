@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Guichet automatique ATM</string>
+    <string name="button">Button</string>
+    <string name="titre">Nom : </string>
+    <string name="description">Prenom : </string>
+    <string name="api">Numéro du compte : </string>
+    <string name="desuet">Compte actvie : </string>
+    <string name="nombre">Nombre de clients : </string>
+    <string name="retourner">Retourner</string>
+</resources>
